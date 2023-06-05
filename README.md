@@ -8,6 +8,7 @@ Incorporated data analysis techniques, specializing in "time series analysis " ,
 
 
 ![Screenshot (50)](https://github.com/BRISTY-SHUKLA/DashBoard-on-Super-Store-Sales/assets/101013518/5ce928cd-5d08-4a2d-be1c-a2ad80264384)
+## 15 days sales forecast using powerbi tool 
 ![Screenshot (51)](https://github.com/BRISTY-SHUKLA/DashBoard-on-Super-Store-Sales/assets/101013518/0b31c586-d325-4fea-b6fd-b31015fd195d)
 # DashBoard-on-Super-Store-Sales
 youtube link :
